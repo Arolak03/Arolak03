@@ -155,6 +155,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <div id="header" align="center" height="100px">
   <p> Undergraduate, IIT Jammu'25</p>
   <img src="https://camo.githubusercontent.com/aa5dc8fbf5c3efe5578f34c2a278c82e6da2f9690d8a50a92279b5eec4c5968c/68747470733a2f2f6c6d732e6969746a616d6d752e61632e696e2f706c7567696e66696c652e7068702f312f7468656d655f61636164656d692f6c6f676f2f313639383932303032392f4949544a4d55312e706e67" height="100" width="200"/>
+  <br>
 </div>
 I am a passionate full-stack developer and Machine Learning enthusiast. I am pursuing my BTech in Computer science and engineering from IIT Jammu. I am open to collaborating on new projects.
 
